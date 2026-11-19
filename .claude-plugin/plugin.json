@@ -1,0 +1,6 @@
+{
+  "name": "context-toggles",
+  "version": "0.2.1",
+  "description": "Turn MCP servers and skills off for a conversation before the first message, so they stay out of the context",
+  "types": "./types/index.d.ts"
+}
